@@ -1,6 +1,8 @@
 {
-  "name": "covid",
-  "version": "0.2.0",
+
+  "homepage": "http://kikoparley.github.io/Colombia-covid-19-react",
+  "name": "covid-19",
+  "version": "0.3.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.7",
@@ -34,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
