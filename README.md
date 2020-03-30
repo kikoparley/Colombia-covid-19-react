@@ -1,20 +1,23 @@
-# Covid-19-Statistics
-Shows statistics from countries hit by the corona virus disease(Covid-19). The data includes current cases, deaths, recovered patients etc. We are fetching data using the API from [NovelCOVID](https://github.com/NovelCOVID)
-Using this data, we want to be able to **predict** the total number of people that will get infected, recover or die in the next month and the impact it will have on small scale entrepreneurs. This will allow countries and businesses to plan better ahead of time, these actions can help save a lot of **people's lives** and **economies around the world**.
+# Colombia-covid-19-react
+Muestra estadisticas de Colombia sobre los casos de personas afectadas por el Corona Virus(Covid-19), los datos datos se actualizan de manera automatica desde una api publica del gobierno de Colombia.
+Los datos incluyen casos actuales, muertes, pacientes recuperados, etc. Estamos obteniendo datos utilizando el API de NovelCOVID. 
 
-For contributions follow the instructions below.
+Para contribuciones, siga las instrucciones a continuación.
 
-Clone the repo
-git clone https://github.com/Big-Zude/Covid-19-Statistics.git
+Clonar el repositorio
+cd Colombia-covid-19-react
+Instale lo siguiente en su máquina
 
-cd covid
+1. nodo
+2. git
 
-Please install the following on your machine  <br/>                                                                              1. [node](https://nodejs.org/en/download/)  <br/>                                                                                2. [git](https://git-scm.com/download/win)
+Para instalar dependencias
 
-To Install dependencies
+Ejecute npm install
 
-Run **npm install**
+Despues
 
-Then
+Ejecute npm start
 
-Run **npm start**
+
+Api: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
