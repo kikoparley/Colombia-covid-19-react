@@ -1,6 +1,6 @@
 # Colombia-covid-19-react
 Muestra estadisticas de Colombia sobre los casos de personas afectadas por el Corona Virus(Covid-19), los datos datos se actualizan de manera automatica desde una api publica del gobierno de Colombia.
-Los datos incluyen casos actuales, muertes, pacientes recuperados, etc. Estamos obteniendo datos utilizando el API de NovelCOVID. 
+Los datos incluyen casos actuales, muertes, pacientes recuperados, etc. 
 
 Para contribuciones, siga las instrucciones a continuación.
 
