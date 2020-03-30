@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Colombia-covid-19-react/static/css/main.5db5077d.chunk.css",
+    "main.js": "/Colombia-covid-19-react/static/js/main.d9a46081.chunk.js",
+    "main.js.map": "/Colombia-covid-19-react/static/js/main.d9a46081.chunk.js.map",
+    "runtime-main.js": "/Colombia-covid-19-react/static/js/runtime-main.33b28a27.js",
+    "runtime-main.js.map": "/Colombia-covid-19-react/static/js/runtime-main.33b28a27.js.map",
+    "static/js/2.fbfe2a18.chunk.js": "/Colombia-covid-19-react/static/js/2.fbfe2a18.chunk.js",
+    "static/js/2.fbfe2a18.chunk.js.map": "/Colombia-covid-19-react/static/js/2.fbfe2a18.chunk.js.map",
+    "index.html": "/Colombia-covid-19-react/index.html",
+    "precache-manifest.d53f979d64db7c6fd05c135635caab09.js": "/Colombia-covid-19-react/precache-manifest.d53f979d64db7c6fd05c135635caab09.js",
+    "service-worker.js": "/Colombia-covid-19-react/service-worker.js",
+    "static/css/main.5db5077d.chunk.css.map": "/Colombia-covid-19-react/static/css/main.5db5077d.chunk.css.map",
+    "static/js/2.fbfe2a18.chunk.js.LICENSE.txt": "/Colombia-covid-19-react/static/js/2.fbfe2a18.chunk.js.LICENSE.txt",
+    "static/media/Badge.css": "/Colombia-covid-19-react/static/media/stars.1d17360a.svg",
+    "static/media/logo.png": "/Colombia-covid-19-react/static/media/logo.efa57e1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b28a27.js",
+    "static/js/2.fbfe2a18.chunk.js",
+    "static/css/main.5db5077d.chunk.css",
+    "static/js/main.d9a46081.chunk.js"
+  ]
+}
